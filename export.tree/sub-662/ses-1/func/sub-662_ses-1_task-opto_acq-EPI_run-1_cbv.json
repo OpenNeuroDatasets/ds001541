@@ -1,0 +1,11 @@
+{
+ "NumberOfVolumesDiscardedByScanner": 10,
+ "EchoTime": 0.0056,
+ "TaskName": "opto",
+ "TaskDescription": "Optical stimulation with 20Hz, 5ms pluse, 44mW, 473 nm laser, CBV iron contrast",
+ "RepetitionTime": 2.0,
+ "Manufacturer": "Bruker BioSpin MRI GmbH",
+ "InstitutionName": "ETH Zurich",
+ "FlipAngle": 90.0,
+ "PulseSequenceType": "EPI"
+}
