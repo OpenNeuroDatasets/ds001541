@@ -1,8 +1,0 @@
-{
- "FlipAngle": 50.0,
- "PulseSequenceType": "FLASH",
- "NumberOfVolumesDiscardedByScanner": 0,
- "RepetitionTime": 1.5,
- "Manufacturer": "Bruker BioSpin MRI GmbH",
- "InstitutionName": "ETH Zurich"
-}
